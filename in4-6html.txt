@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/style.css">
+  
+  
+</head>
+<body>
+  <h1>tex</h1>
+  <h2>yeq</h2>
+  <dir class="box">
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum ipsa placeat, esse ipsam blanditiis, veritatis illo delectus amet aut deleniti quibusdam distinctio. Animi ipsa similique sit quos omnis nesciunt ex!
+Nesciunt iusto sapiente quisquam beatae impedit. Error, quo fuga? Praesentium accusamus voluptas porro aut odio magnam nobis perspiciatis in quidem commodi sapiente optio, asperiores dolorum? Harum similique praesentium deleniti necessitatibus?
+Nostrum ipsum rem ut harum odit nulla cupiditate maiores enim? Rem tempore laboriosam laborum dolores inventore blanditiis architecto nisi animi sed adipisci recusandae, maiores eligendi quia! Quaerat ut rem excepturi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum ipsa placeat, esse ipsam blanditiis, veritatis illo
+delectus amet aut deleniti quibusdam distinctio. Animi ipsa similique sit quos omnis nesciunt ex!
+Nesciunt iusto sapiente quisquam beatae impedit. Error, quo fuga? Praesentium accusamus voluptas porro aut odio magnam
+nobis perspiciatis in quidem commodi sapiente optio, asperiores dolorum? Harum similique praesentium deleniti
+necessitatibus?
+Nostrum ipsum rem ut harum odit nulla cupiditate maiores enim? Rem tempore laboriosam laborum dolores inventore
+blanditiis architecto nisi animi sed adipisci recusandae, maiores eligendi quia! Quaerat ut rem excepturi.
+ </dir>
+ <!-- <div class="content">
+   Далеко-далеко за словесными горами в стране гласных и согласных живут рыбные тексты. Диких запятой своих они которое выйти, текста использовало, домах точках его снова ему одна дорогу. Имени коварных знаках силуэт образ!
+   Маленькая свой переулка осталось строчка меня имеет одна родного диких ручеек продолжил агентство переписали сих моей жаренные точках, домах рот то вершину злых он которой снова там рукописи речью. Необходимыми!
+   Реторический букв ты текстов страну ему журчит повстречался по всей строчка имени, там, предложения всемогущая. Силуэт грустный оксмокс она бросил! Запятых выйти снова вскоре алфавит, решила дорогу о если первую рот.
+  </div> -->
+
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    h1{
+  text-align: center;
+  font: size 60px;
+  color:rgba(146, 197, 64, .6);
+  
+}
+  </style>
+</head>
+<body>
+  <h1>
+    text
+  </h1>
+  <h3>
+     <p style="color: blue";/p>
+    text
+  </h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ullam libero, magni tenetur eos labore sapiente esse? Totam ipsam nostrum delectus sed rerum voluptatem? Optio debitis voluptatem accusantium distinctio dolore.</p>
+<img src="images/tu.png" alt="">
+<a href="https://translate.google.com/?hl=ru">
+  ссылка
+</a>
+<ul>
+  <li>item</li>
+  <li>item</li>
+  <li>item</li>
+  <li>item</li>
+</ul>
+<form action="">
+  <input type="text">
+  <input type="submit">
+
+</form>
+<div class="text">
+  Lorem ipsum dolor sit amet.
+</div>
+<div>
+<span>
+  Lorem ipsum dolor sit amet.
+</span>
+</div>
+<span>
+  Lorem ipsum dolor sit amet.
+</span>
+<span>
+  Lorem ipsum dolor sit amet.
+</span>
+</body>
+</html>
